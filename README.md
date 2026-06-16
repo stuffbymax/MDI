@@ -1,4 +1,4 @@
 # MDI
 markdown it
 
-# MDI is an program that reads md docs in terminal
+# MDI is an program that reads md in terminal
